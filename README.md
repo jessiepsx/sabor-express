@@ -39,17 +39,6 @@ Durante o desenvolvimento, foram utilizados conceitos fundamentais de POO:
 
 ---
 
-## 🚀 Estrutura do projeto 
-.
-├── modelos/
-│   ├── restaurante.py
-│   ├── avaliacao.py
-│   └── cardapio/
-│       ├── item_cardapio.py
-│       ├── prato.py
-│       └── bebida.py
-├── main.py
-
 ## 📬 Contato
 
 Se quiser acompanhar meus projetos ou trocar uma ideia, me encontra por aqui:
